@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:145, - [BGA] Cutter [BOFXVI][流血表現有]
+[BGA] Cutter [BOFXVI][流血表現有].mp3
+#EXTINF:146,【BOFXV2019】Magenta Potion - EmoCosine
+【BOFXV2019】Magenta Potion - EmoCosine.mp3
+#EXTINF:2182, - 【Full Album】My Future, Your Memory (EmoCosine 1st Album)
+【Full Album】My Future, Your Memory (EmoCosine 1st Album).mp3
+#EXTINF:1079, - 【Full Album】Shake The Future! EP (Remaster)
+【Full Album】Shake The Future! EP (Remaster).mp3
+#EXTINF:133, - 【G2R2018】This Club is Not 4 U【BGA】
+【G2R2018】This Club is Not 4 U【BGA】.mp3
+#EXTINF:218,【ORIGINAL SONG+MV】Pastel Tea Time - Omaru Polka【尾丸ポルカ/ホロライブ】
+【ORIGINAL SONG+MV】Pastel Tea Time - Omaru Polka【尾丸ポルカ_ホロライブ】.mp3
+#EXTINF:199, - 【オリジナル曲】Roseberry/らびあんろーず (Prod. by EmoCosine)【Vtuber】
+【オリジナル曲】Roseberry_らびあんろーず (Prod. by EmoCosine)【Vtuber】.mp3
+#EXTINF:338, - 【初音ミクオリジナル曲】ソーシャル・アストロノート【よみぃ+EmoCosine】
+【初音ミクオリジナル曲】ソーシャル・アストロノート【よみぃ+EmoCosine】.mp3
+#EXTINF:200,Aice Room - DREAMY PLANET (feat.YUC'e) (EmoCosine Remix)
+Aice Room - DREAMY PLANET (feat.YUC'e) (EmoCosine Remix).mp3
+#EXTINF:185,EmoCosine - Cutter (Extended Mix)
+EmoCosine - Cutter (Extended Mix).mp3
+#EXTINF:140,EmoCosine - DEBUT! Cross Fade 【M3 - 2019 Autumn】
+EmoCosine - DEBUT! Cross Fade 【M3 - 2019 Autumn】.mp3
+#EXTINF:181,EmoCosine - Delusion
+EmoCosine - Delusion.mp3
+#EXTINF:206,EmoCosine - Dream with Me
+EmoCosine - Dream with Me.mp3
+#EXTINF:233,EmoCosine  feat.ななひら - ミライヌコ
+EmoCosine  feat.ななひら - ミライヌコ.mp3
+#EXTINF:156,EmoCosine - First Step!
+EmoCosine - First Step!.mp3
+#EXTINF:197,EmoCosine - Focus on You
+EmoCosine - Focus on You.mp3
+#EXTINF:185,EmoCosine - Give You My World (Extended Mix)
+EmoCosine - Give You My World (Extended Mix).mp3
+#EXTINF:143,EmoCosine - Give You My World 【from Lanota】
+EmoCosine - Give You My World 【from Lanota】.mp3
+#EXTINF:262,EmoCosine - Good Night, My Future
+EmoCosine - Good Night, My Future.mp3
+#EXTINF:200,EmoCosine - Hazelnut Muffins
+EmoCosine - Hazelnut Muffins.mp3
+#EXTINF:228,EmoCosine - I found My Wonderland
+EmoCosine - I found My Wonderland.mp3
+#EXTINF:253,EmoCosine - Lollipop Love
+EmoCosine - Lollipop Love.mp3
+#EXTINF:237,EmoCosine - Love Kills U (Extended Mix)
+EmoCosine - Love Kills U (Extended Mix).mp3
+#EXTINF:239,EmoCosine - Love Kills U (Extended Mix)
+EmoCosine - Love Kills U (Extended Mix)-1.mp3
+#EXTINF:540,EmoCosine - Love Kills U EP CrossFade 【M3 - 2021 Autumn】
+EmoCosine - Love Kills U EP CrossFade 【M3 - 2021 Autumn】.mp3
+#EXTINF:138,EmoCosine - Love Kills U【Official MV / From WACCA】※流血表現注意
+EmoCosine - Love Kills U【Official MV _ From WACCA】※流血表現注意.mp3
+#EXTINF:146,EmoCosine - MAGENTA POTION
+EmoCosine - MAGENTA POTION.mp3
+#EXTINF:211,EmoCosine - MAGENTA POTION (Extended Mix)
+EmoCosine - MAGENTA POTION (Extended Mix).mp3
+#EXTINF:180,EmoCosine - monotone
+EmoCosine - monotone.mp3
+#EXTINF:539,EmoCosine - My Future, Your Memory Cross Fade 【M3 - 2018Autumn】
+EmoCosine - My Future, Your Memory Cross Fade 【M3 - 2018Autumn】.mp3
+#EXTINF:278,EmoCosine - Pixel Heart
+EmoCosine - Pixel Heart.mp3
+#EXTINF:151,EmoCosine - Reincarnation【Deemo official OST】
+EmoCosine - Reincarnation【Deemo official OST】.mp3
+#EXTINF:202,EmoCosine - See You Next Future
+EmoCosine - See You Next Future.mp3
+#EXTINF:300,EmoCosine - Shake The Future! EP Cross Fade 【M3 - 2019 Spring】
+EmoCosine - Shake The Future! EP Cross Fade 【M3 - 2019 Spring】.mp3
+#EXTINF:249,EmoCosine - Summer Traveler
+EmoCosine - Summer Traveler.mp3
+#EXTINF:193,EmoCosine - Sweet Shooting Star
+EmoCosine - Sweet Shooting Star.mp3
+#EXTINF:151,EmoCosine - Thinkin' About U
+EmoCosine - Thinkin' About U.mp3
+#EXTINF:187,EmoCosine - This Club is Not 4 U
+EmoCosine - This Club is Not 4 U.mp3
+#EXTINF:129,EmoCosine - ネコジャラシ【from Muse Dash】
+EmoCosine - ネコジャラシ【from Muse Dash】.mp3
+#EXTINF:234,EmoCosine - 開花
+EmoCosine - 開花.mp3
+#EXTINF:265,EmoCosine - 落花
+EmoCosine - 落花.mp3
+#EXTINF:158,EmoCosine & GUANA - Call Me Up Now
+EmoCosine & GUANA - Call Me Up Now.mp3
+#EXTINF:215,EmoCosine feat. S.Rinne - Moonlight
+EmoCosine feat. S.Rinne - Moonlight.mp3
+#EXTINF:202,EmoCosine feat.ちょこ - Photographer
+EmoCosine feat.ちょこ - Photographer.mp3
+#EXTINF:215,EmoCosine feat.ちょこ - コアクマスイーツ
+EmoCosine feat.ちょこ - コアクマスイーツ.mp3
+#EXTINF:232,EmoCosine feat.ちょこ - ハツコイレシピ
+EmoCosine feat.ちょこ - ハツコイレシピ.mp3
+#EXTINF:208,EmoCosine feat.中村さんそ - パステルココロ
+EmoCosine feat.中村さんそ - パステルココロ.mp3
+#EXTINF:234,EmoCosine feat.柚木梨沙 - 大和撫子だんすふろあ
+EmoCosine feat.柚木梨沙 - 大和撫子だんすふろあ.mp3
+#EXTINF:180,EmoCosine Vs. Tanchiky - Tamamo Xross
+EmoCosine Vs. Tanchiky - Tamamo Xross.mp3
+#EXTINF:256,Kenichi Chiba - dreamland feat. EVO+ (EmoCosine Remix)
+Kenichi Chiba - dreamland feat. EVO+ (EmoCosine Remix).mp3
+#EXTINF:181,RiraN - Miss You (EmoCosine Remix)
+RiraN - Miss You (EmoCosine Remix).mp3
+#EXTINF:164, - Second Step!
+Second Step!.mp3
+#EXTINF:195,xi - 天衣無縫 (EmoCosine Remix)
+xi - 天衣無縫 (EmoCosine Remix).mp3
+#EXTINF:266,星宮とと+TEMPLIME - 水槽 (EmoCosine Remix)
+星宮とと+TEMPLIME - 水槽 (EmoCosine Remix).mp3
