@@ -1,0 +1,15 @@
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\bin\Debug\net6.0\weblioscraping.exe
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\bin\Debug\net6.0\weblioscraping.deps.json
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\bin\Debug\net6.0\weblioscraping.runtimeconfig.json
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\bin\Debug\net6.0\weblioscraping.dll
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\bin\Debug\net6.0\weblioscraping.pdb
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.csproj.AssemblyReference.cache
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.AssemblyInfoInputs.cache
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.AssemblyInfo.cs
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.csproj.CoreCompileInputs.cache
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.dll
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\refint\weblioscraping.dll
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.pdb
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\weblioscraping.genruntimeconfig.cache
+C:\Users\hwwat\source\repos\weblioscraping\weblioscraping\obj\Debug\net6.0\ref\weblioscraping.dll
