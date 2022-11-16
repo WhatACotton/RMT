@@ -1,0 +1,3 @@
+﻿#EXTM3U
+#EXTINF:184,AAx2 - Mameyudoufu
+C:\Users\hwwat\Music\megarex dao\AAx2 - Mameyudoufu.mp3
